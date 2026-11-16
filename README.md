@@ -9,3 +9,5 @@ A bilingual design portfolio organized by graphic design and visual research, di
 在本文件夹运行 `node dev-server.mjs`，打开 `http://127.0.0.1:4173`。
 
 “声格测试”项目已连接用户提供的在线体验网址，同时保留 PDF 预览。
+
+“声音过载：设计调研与分析”项目展示四页调研版面，并提供完整 PDF。
