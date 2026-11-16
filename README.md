@@ -1,8 +1,8 @@
 # Jasmine‘s 作品集 / Portfolio
 
-这是一个持续更新的双语设计作品集，按平面与视觉研究、数字体验、摄影、影像和三维探索组织项目。版式参考 [Bureau Lim](https://hayleylim.com/)。
+双语设计作品集，按平面与视觉研究、数字体验、摄影、影像和三维探索组织项目。
 
-This is an evolving bilingual design portfolio, organized by graphic design and visual research, digital experience, photography, moving image, and 3D exploration.
+A bilingual design portfolio organized by graphic design and visual research, digital experience, photography, moving image, and 3D exploration.
 
 ## 本地预览
 

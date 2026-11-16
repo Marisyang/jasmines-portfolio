@@ -35,3 +35,5 @@ img{height:auto}
 .menu-button .bi-zh,.menu-button .bi-en{display:block}
 @media(max-width:640px){.group-heading{grid-template-columns:36px minmax(0,1fr) 55px;gap:4px}.group-heading>span:first-child{font-size:10px;white-space:nowrap}.group-heading>span:last-child{font-size:9px;text-align:right}.project-row{grid-template-columns:26px minmax(0,1fr) 20px;gap:8px;min-height:0;padding:18px 0}.project-row .number{grid-column:1;grid-row:1}.project-row .title{grid-column:2;grid-row:1;min-width:0}.project-row .title .bi-en{font-size:11px}.project-row .description{grid-column:2;grid-row:2;padding-right:0}.project-row .category,.project-row .year{display:none}.project-row .arrow{grid-column:3;grid-row:1}}
 @media(max-width:640px){.group-heading{grid-template-columns:45px minmax(0,1fr) 55px;gap:8px}}
+.intro-space{min-height:112px;justify-content:flex-end}
+@media(max-width:640px){.intro-space{min-height:82px}}
